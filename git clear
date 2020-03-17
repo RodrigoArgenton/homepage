@@ -1,0 +1,42 @@
+[33mcommit c68de76a88e68ff6a90f28555a16ca8713ceb78c[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m)[m
+Author: Rodrigo Argenton <Rodrigolk4321@gmail.com>
+Date:   Tue Mar 17 11:03:13 2020 -0300
+
+     inclusão da section contact
+
+[33mcommit 749a5a75878279e30b82b5d8561fcc11751b81f9[m[33m ([m[1;31morigin/master[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+Author: Rodrigo Argenton <Rodrigolk4321@gmail.com>
+Date:   Mon Mar 16 06:53:38 2020 -0300
+
+    inclusão de dois itens: patners e team
+
+[33mcommit 3e6473c101b86c88b7e2d9520471f15648dace85[m
+Merge: c8ff871 0724528
+Author: Rodrigo Argenton <Rodrigolk4321@gmail.com>
+Date:   Fri Mar 13 17:27:13 2020 -0300
+
+    Merge branch 'master' of https://github.com/RodrigoArgenton/html_css
+
+[33mcommit c8ff8718c9a6fd245bde6bbff6a89afc6584a41b[m
+Author: Rodrigo Argenton <Rodrigolk4321@gmail.com>
+Date:   Fri Mar 13 17:03:31 2020 -0300
+
+    change file
+
+[33mcommit 7026c84ea00ebfca20623d656c1c96658616cbf6[m
+Author: Rodrigo Argenton <Rodrigolk4321@gmail.com>
+Date:   Fri Mar 13 16:49:42 2020 -0300
+
+    realizado a criação do primeiro site
+
+[33mcommit 07245288c8b6d3d815344a8fcfafd6cfc499195e[m
+Author: RodrigoArgenton <62083180+RodrigoArgenton@users.noreply.github.com>
+Date:   Thu Mar 12 17:13:01 2020 -0300
+
+    Rename README.md to README.html
+
+[33mcommit 3215cf9a05c6c98cc1462c72397a495e7ae0dd84[m
+Author: RodrigoArgenton <62083180+RodrigoArgenton@users.noreply.github.com>
+Date:   Thu Mar 12 16:00:02 2020 -0300
+
+    Initial commit
