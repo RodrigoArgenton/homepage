@@ -15,7 +15,7 @@ ul{
     padding: 0px;
 }
 li{
-    background-color: rgb(100, 255, 95);
+    background-color: transparent);
     list-style: none;
     display: inline-block;
     text-decoration: black;
@@ -51,13 +51,4 @@ footer{
 }
 .img_contact{
     width: 30px;
-}
-figcaption{
-    background: #4444;
-    float: right;
-    margin-left: 15px;
-    font-size: 10px;
-    margin-top: 3px;
-    font-family: 'Times New Roman', Arial, sans-serif;
-    width: 109px;
 }
