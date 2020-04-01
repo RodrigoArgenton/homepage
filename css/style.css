@@ -15,7 +15,7 @@ ul{
     padding: 0px;
 }
 li{
-    background-color: transparent);
+    background-color: transparent;
     list-style: none;
     display: inline-block;
     text-decoration: black;
@@ -29,6 +29,7 @@ li a:hover{
 h1{
     color: black;
     font-family: arial;
+    clear: right;
 }
 h2{
     font-family: arial;
@@ -43,12 +44,19 @@ footer{
 }
 .img_standard{
     width: 300px;
-    margin-top: 80px;
     float: right;
-    margin-left: 15px;
+    margin-left: 1px;
     border: 2px solid #4444;
-    margin-bottom: 5px;
+    margin-bottom: 2px;
 }
 .img_contact{
     width: 30px;
+}
+.imagePatners{
+    width: 150px;
+    float: right;
+    margin-left: 1px;
+    margin-bottom: 10px;
+    clear: right;
+    target:"_blanck"
 }
