@@ -9,6 +9,23 @@ header{
     margin-top: 50px;
     margin-bottom: 50px;
 }
+ul{
+    list-style-type: square;
+    margin: 0px;
+    padding: 0px;
+}
+li{
+    background-color: rgb(100, 255, 95);
+    list-style: none;
+    display: inline-block;
+    text-decoration: black;
+    margin-bottom: 3px;
+    padding: 2px 15px; 
+    margin-left: -4px;
+}
+li a:hover{
+    background-color: yellow;
+}
 h1{
     color: black;
     font-family: arial;
