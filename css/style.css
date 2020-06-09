@@ -4,14 +4,16 @@ body{
     -moz-background-size: cover;
     -o-background-size: cover;
     background-size: cover;
-    margin-left: 200px;
-    margin-right: 200px;
-    margin-top: 50px;
-    margin-bottom: 50px;
 }
 header{
     background-color: slategray;
-    margin-bottom: 0px;
+    margin-top: -22px;
+}
+ul{
+    text-align: center;
+}
+#all{
+    padding: 0px 200px 0px 200px;
 }
 ul{
     list-style-type: square;
@@ -46,8 +48,8 @@ footer{
     margin-left: 750px;
     margin-bottom: 20px;
 }
-.img_standard{
-    width: 300px;
+.imageM{
+    width: 100px;
     float: right;
     margin-left: 1px;
     border: 2px solid #4444;
@@ -57,10 +59,9 @@ footer{
     width: 30px;
 }
 .imagePatners{
-    width: 150px;
+    width: 100px;
     float: right;
     margin-left: 1px;
     margin-bottom: 10px;
     clear: right;
-    target:"_blanck";
 }
