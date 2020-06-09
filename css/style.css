@@ -4,16 +4,22 @@ body{
     -moz-background-size: cover;
     -o-background-size: cover;
     background-size: cover;
+    background-position: center;
 }
 header{
     background-color: slategray;
+    background-position: center;
+    margin-top: -22px;
+}
+#menu{
+    background-color: rgba(112, 128, 144, 0.541);
     margin-top: -22px;
 }
 ul{
     text-align: center;
 }
 #all{
-    padding: 0px 200px 0px 200px;
+    padding: 0% 10% 0% 10%;
 }
 ul{
     list-style-type: square;
@@ -30,7 +36,7 @@ li{
     margin-left: -4px;
 }
 li a:hover{
-    background-color: yellow;
+    background-color: rgb(189, 189, 142);
 }
 h1{
     color: black;
