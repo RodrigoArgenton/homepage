@@ -1,13 +1,17 @@
 body{
-    background: rgba(34, 32, 32, 0.568);
+    background: url("../img/background.jpeg");
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
     margin-left: 200px;
     margin-right: 200px;
     margin-top: 50px;
     margin-bottom: 50px;
 }
 header{
-    margin-top: 50px;
-    margin-bottom: 50px;
+    background-color: slategray;
+    margin-bottom: 0px;
 }
 ul{
     list-style-type: square;
@@ -20,7 +24,7 @@ li{
     display: inline-block;
     text-decoration: black;
     margin-bottom: 3px;
-    padding: 2px 15px; 
+    padding: 0px 15px; 
     margin-left: -4px;
 }
 li a:hover{
@@ -58,5 +62,5 @@ footer{
     margin-left: 1px;
     margin-bottom: 10px;
     clear: right;
-    target:"_blanck"
+    target:"_blanck";
 }
