@@ -7,12 +7,14 @@ body{
     
 }
 #ws{
-    height: 850px;
-    width: 200px;
+    height: 850px;  
+    padding: 0px 0px 0px 80px; 
 }
 #menu{
-    background-color: rgba(112, 128, 144, 0.541);
-    
+    background-color: rgba(255, 255, 255, 0.541);
+}
+a:link{
+    color: black;
 }
 ul{
     text-align: center;
@@ -20,22 +22,16 @@ ul{
 #all{
     padding: 0% 10% 0% 10%;
 }
-ul{
-    list-style-type: square;
-    margin: 0px;
-    padding: 0px;
-}
 li{
     background-color: transparent;
     list-style: none;
     display: inline-block;
-    text-decoration: black;
+    padding: 0px 15px;
     margin-bottom: 3px;
-    padding: 0px 15px; 
     margin-left: -4px;
 }
 li a:hover{
-    background-color: rgb(189, 189, 142);
+    background-color: rgb(129, 128, 128);
 }
 h1{
     color: black;
