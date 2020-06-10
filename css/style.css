@@ -1,19 +1,18 @@
 body{
-    background: url("../img/background.jpeg");
-    -webkit-background-size: cover;
-    -moz-background-size: cover;
-    -o-background-size: cover;
-    background-size: cover;
-    background-position: center;
+    background: url("../img/backgroundAP.jpg");
+    background-attachment: scroll;
+    background-repeat: no-repeat;
+    background-position: top;
+    background-size: contain;
+    
 }
-header{
-    background-color: slategray;
-    background-position: center;
-    margin-top: -22px;
+#ws{
+    height: 850px;
+    width: 200px;
 }
 #menu{
     background-color: rgba(112, 128, 144, 0.541);
-    margin-top: -22px;
+    
 }
 ul{
     text-align: center;
