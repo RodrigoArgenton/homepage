@@ -15,7 +15,7 @@ body{
 }
 ul{
     text-align: center;
-    background-color: cornflowerblue;
+    
     
 }
 #maps{
@@ -34,8 +34,12 @@ li{
     margin-bottom: 3px;
     margin-left: -4px;
 }
-a:link{
-    color: black;
+li a:link{
+    color: rgb(255, 255, 255);
+    font-size: 25px;
+}
+li a{
+    color: white;
 }
 li a:hover{
     background-color: rgb(129, 128, 128);
@@ -75,6 +79,8 @@ footer{
     margin-bottom: 10px;
     clear: right;
 }
-#emailtel{
-    
+#emailtel a{
+    color: black;
+    font-size: 15px;
+    font-family: Arial, 'Times New Roman';
 }
