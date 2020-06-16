@@ -6,8 +6,13 @@ body{
     background-size: contain;
     
 }
+#videoYoutube{
+    clear: left;
+    float: right;
+    padding: 90px 50px 0px 0px;
+}
 #ws{
-    height: 850px;  
+    height: 820px;  
     padding: 0px 0px 0px 80px; 
 }
 #menu{
@@ -18,10 +23,15 @@ ul{
     
     
 }
+#href{
+    font-size: 10px;
+    float: right;
+}
 #maps{
+    clear: right;
     float: right;
     margin-right: 10%;
-    padding: 0px 0px 10px 10px;    
+    padding: 40px 0px 10px 10px;    
 }
 #all{
     padding: 0% 10% 0% 10%;
@@ -43,6 +53,9 @@ li a{
 }
 li a:hover{
     background-color: rgb(129, 128, 128);
+}
+#home{
+    margin-top: 40px;
 }
 h1{
     color: black;
