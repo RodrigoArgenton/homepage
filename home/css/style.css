@@ -28,9 +28,8 @@ ul{
     float: right;
 }
 #maps{
-    clear: right;
-    float: right;
-    margin-right: 10%;
+    
+    margin-right: 40px;
     padding: 40px 0px 10px 10px;    
 }
 #all{

@@ -1,0 +1,54 @@
+body{
+    background-color: rgb(255, 255, 255);
+}
+.bodyCenter{
+    min-height: 100vh;
+}
+.divCenter{
+    position: relative;
+    min-height: 100vh;
+}
+.divCenter > form {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translateY(-50%) translateX(-50%);
+}
+input{
+    background-color: transparent;
+    border: 3px groove gray;
+    border-radius: 10px;
+}
+#socialMedia{
+    margin: 50% auto;
+    width: 517.5px;
+    height: 75px
+}
+#social{
+    width: 75px;
+    height: 75px;
+    float: right;
+    margin-top: 35%;
+    margin-left: 20px;
+    transition: all 0.4s ease-out;
+    border-radius: 50%;
+}
+#social:hover{
+    cursor: pointer;
+    transform: translateY(-20px);
+    box-shadow: 4px 30px 16px 0px rgb(50, 50, 50, 0.45);
+}
+.facebook{
+    background-color: rgb(59, 89, 152);
+}
+.whatsapp{
+    background-color: rgb(52, 175, 35);
+}
+.youtube{
+    background-color: rgb(187, 0, 0);
+}
+.icon{
+    margin: 0px auto;
+    padding: 17.5px;
+    width: 40px;
+}
