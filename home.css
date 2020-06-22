@@ -18,11 +18,12 @@ body{
     padding: 0px 0px 0px 80px; 
     border: black 3px solid;
 }
-#menu{
-    background-color: rgba(255, 255, 255, 0.541);
+nav{
+    background-color: black;
+    opacity: 0.7;
 }
 ul{
-    text-align: center;
+    text-align: right; 
     border: black 3px solid;
     
 }
