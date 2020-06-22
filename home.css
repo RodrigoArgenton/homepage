@@ -1,39 +1,30 @@
 body{
-    background: url("../img/backgroundAP.jpg");
+    background: linear-gradient(to bottom, purple, blue, white);
     background-attachment: scroll;
     background-repeat: no-repeat;
     background-position: top;
     background-size: contain;
+    
     
 }
 #videoYoutube{
     clear: left;
     float: right;
     padding: 90px 50px 0px 0px;
+    border: black 3px solid;
 }
 #ws{
     height: 820px;  
     padding: 0px 0px 0px 80px; 
+    border: black 3px solid;
 }
 #menu{
     background-color: rgba(255, 255, 255, 0.541);
 }
 ul{
     text-align: center;
+    border: black 3px solid;
     
-    
-}
-#href{
-    font-size: 10px;
-    float: right;
-}
-#maps{
-    
-    margin-right: 40px;
-    padding: 40px 0px 10px 10px;    
-}
-#all{
-    padding: 0% 10% 0% 10%;
 }
 li{
     background-color: transparent;
@@ -46,6 +37,7 @@ li{
 li a:link{
     color: rgb(255, 255, 255);
     font-size: 25px;
+    text-decoration: none;
 }
 li a{
     color: white;
@@ -53,6 +45,19 @@ li a{
 li a:hover{
     background-color: rgb(129, 128, 128);
 }
+#href{
+    font-size: 10px;
+    float: right;
+}
+#maps{
+    float: right;
+    padding: 40px 0px 10px 10px;    
+    border: black 3px solid;
+}
+#all{
+    padding: 0% 10% 0% 10%;
+}
+
 #home{
     margin-top: 40px;
 }
@@ -66,6 +71,9 @@ h2{
 }
 p{
     font-size: 15px;
+    text-align: justify;
+    line-height: 2em;
+    text-indent: 2em;
 }
 footer{
     margin-top: 20px;
